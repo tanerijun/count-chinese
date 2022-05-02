@@ -1,0 +1,15 @@
+{
+  "name": "count-chinese",
+  "version": "1.0.1",
+  "description": "Count the number of Chinese (Mandarin) character in a string",
+  "license": "MIT",
+  "repository": "TaneriX07/count_chinese/",
+  "main": "index.js",
+  "keywords": [
+    "chinese",
+    "mandarin",
+    "count",
+    "count chinese",
+    "count mandarin"
+  ]
+}

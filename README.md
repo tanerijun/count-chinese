@@ -8,13 +8,11 @@ Count the number of Chinese (Mandarin) character in a string.
 - Doesn't count everything else other than Chinese character (space, number, symbol, etc. are all ignored)
 
 ## Install
----
 ```
 npm install count-chinese
 ```
 
 ## Usage
----
 ```js
 const countChinese = require('count-chinese');
 countChinese('Hi!，我是台灣人。') // count = 5

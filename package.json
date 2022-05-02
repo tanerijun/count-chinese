@@ -1,6 +1,6 @@
 {
   "name": "count-chinese",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Count the number of Chinese (Mandarin) character in a string",
   "license": "MIT",
   "repository": "TaneriX07/count_chinese/",
